@@ -744,6 +744,7 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials {
+  background-image: url(test.jpg);
   padding: 80px 0;
   background-repeat:  no-repeat;
   background-position: center center;
@@ -1295,6 +1296,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  background-image: url(footer-bg.jpg);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
